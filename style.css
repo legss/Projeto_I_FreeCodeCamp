@@ -1,19 +1,27 @@
 body {
+  te
 }
 
 .topo {
   text-align: center;
 }
 
-#title {
-}
-
 #main {
   background-color: #eee;
 }
 
+#title {
+}
+
 #img-div {
+  background-color: white;
+  padding: 10px;
+  margin: auto 50px auto 50px;
+  text-align: center;
 }
 
 #image {
+  display: block;
+  margin: auto;
+  padding-top: 10px;
 }
