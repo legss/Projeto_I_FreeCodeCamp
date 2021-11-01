@@ -1,13 +1,23 @@
 body {
-  te
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  padding-top: 10px;
 }
 
 .topo {
   text-align: center;
+  font-size: 1rem;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
 
 #main {
   background-color: #eee;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 5px;
 }
 
 #title {
@@ -16,12 +26,54 @@ body {
 #img-div {
   background-color: white;
   padding: 10px;
-  margin: auto 50px auto 50px;
-  text-align: center;
+  margin: auto 70px auto 70px;
+  border-radius: 30px;
 }
 
 #image {
   display: block;
   margin: auto;
   padding-top: 10px;
+  border-radius: 50px;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 0.9rem;
+}
+
+#tribute-info {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  max-width: 600px;
+}
+
+.t-lista {
+  font-size: 1rem;
+  text-align: center;
+  padding-top: 50px;
+}
+
+ul {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 2;
+}
+
+li {
+  padding-top: 30px;
+  font-size: 1rem;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
