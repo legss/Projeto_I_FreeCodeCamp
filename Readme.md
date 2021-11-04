@@ -1,21 +1,63 @@
-Instruçoes para o projeto - FreeCodeCamp
+# Projeto I FreeCodeCamp
 
-Objetivo: criar uma aplicação no CodePen.io que tenha função semelhante a esta: https://codepen.io/freeCodeCamp/full/zNqgVx.
+Este projeto é meu primeiro projeto, criado juntamente com o curso de Web Design Responsivo da https://www.freecodecamp.org/
 
-Especificação de usuário nº 1: a página de homenagem deve ter um elemento com um id="main" que envolva todos os demais elementos.
+## Table of contents
 
-Especificação de usuário nº 2: deve haver um elemento com id="title", que contenha um texto que descreva a pessoa a quem a página presta homenagem (por exemplo, "Dr. Norman Borlaug").
+--- EM CONSTRUÇÂO ---
 
-Especificação de usuário nº 3: deve haver uma div com um id="img-div".
+-   [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Especificação de usuário nº 4: dentro do elemento de id img-div, deve haver um elemento img com um id="image".
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Especificação de usuário nº 5: dentro do elemento de id img-div, deve haver um elemento com um id="img-caption" que contenha um conteúdo textual descrevendo a imagem mostrada em img-div.
+## Overview
 
-Especificação de usuário nº 6: deve haver um elemento com id="tribute-info", que contenha conteúdo textual descrevendo a pessoa a quem a página presta homenagem.
+--- EM CONSTRUÇÂO ---
 
-Especificação de usuário nº 7: deve haver um elemento a com um id="tribute-link", que leve a um site externo que contenha informações adicionais sobre a pessoa a quem a página presta homenagem. DICA: você deve dar ao seu elemento um atributo target e definir o valor para \_blank para que seu link possa ser aberto em uma nova aba (exemplo: target="\_blank").
+### Screenshot
 
-Especificação de usuário nº 8: o elemento img deve redimensionar responsivamente com relação à largura de seu elemento pai, sem exceder o seu tamanho original.
+![](./screenshot.jpg)
 
-Especificação de usuário nº 9: o elemento img deve ser centralizado dentro de seu elemento pai.
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
+### Links
+
+Github Pages - https://legss.github.io/Projeto_I_FreeCodeCamp/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+### What I learned
+
+Com esse Projeto, consegui aplicar alguns dos conceitos que aprendi no curso da [FreeCodeCamp](www.freecodecamp.org)
+
+### Continued development
+
+Em futuros projetos, ainda quero focar em aprimorar minhas habilidades em CSS. Dessa forma, com o tempo, terei uma maior fluidez para codificar.
+
+### Useful resources
+
+- https://www.w3schools.com/ - Utilizei bastante os recursos da W3School para relembrar de tags ou valores para finalizar o projeto.
+
+## Author
+
+- Linkedin - [Luiz Eduardo](https://www.linkedin.com/in/luiz-eduardo-13901b224)
